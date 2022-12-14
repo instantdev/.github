@@ -22,9 +22,10 @@ We believe in compassion, love and technology.
 
 For further information please email us at dev@czlabs.io
 
-truly yours : modsiw
-modsiw@modsiw.io
+Truly yours : 
+modsiw
 
+![app_seal](https://user-images.githubusercontent.com/29111227/207590637-31d94ce6-e101-4fb7-9807-789ae3a16f6c.png)
 
 
 
